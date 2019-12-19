@@ -6,13 +6,11 @@
    <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
+    <sonar.projectKey>CrossKarol_lab1_1</sonar.projectKey>
+    <sonar.organization>crosskarol</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.login>25ad4af82ec572841e8f7005a3a89045768006d2</sonar.login>
   </properties>
-  <properties>
-  <sonar.projectKey>CrossKarol_lab1_1</sonar.projectKey>
-  <sonar.organization>crosskarol</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>25ad4af82ec572841e8f7005a3a89045768006d2</sonar.login>
-</properties>
   <dependencies>
   <dependency>
   		<groupId>junit</groupId>
